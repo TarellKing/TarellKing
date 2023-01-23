@@ -1,10 +1,10 @@
 <h1>Hi, I'm Tarell!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>⚡ Cybersecurity Projects:</h2>
 
  - Active Directory Home Lab
  
-<h2>👨‍💻 Certifications :</h2>
+<h2>💻 Certifications :</h2>
 ISC2
 
 

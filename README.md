@@ -4,7 +4,7 @@
 
  - [Active Directory Home Lab](https://github.com/TarellKing/test-1/blob/main/README.md)
  
- - [Nessus Vulnerabilities scan](x)
+ - [Nessus Vulnerabilities Scan](x)
  
 <h2>💻 Certifications :</h2>
 

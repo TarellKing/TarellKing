@@ -6,6 +6,11 @@
  
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
  
+ <h2>⚡ Coding Projects:</h2>
+ - Python (https://github.com/TarellKing/test-1/blob/main/README.md)
+ 
+ 
+ 
 <h2>💻 Certifications :</h2>
 
 - [ISC2](https://github.com/TarellKing/Certifications/blob/main/README.md)

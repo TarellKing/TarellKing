@@ -7,7 +7,7 @@
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
  
  <h2>⚡ Coding Projects:</h2>
- - Python (https://github.com/TarellKing/test-1/blob/main/README.md)
+ - [Python Conditional statments]([https://github.com/TarellKing/test-1/blob/main/README.md](https://github.com/TarellKing/python-conditional-statements.git)
  
  
  

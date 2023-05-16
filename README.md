@@ -12,7 +12,7 @@
  
  <h2> 🔓 Ethical Hacking Projects:</h2>
 
- - [Hack The Box pt.1 ](https://github.com/TarellKing/Hackthebox1.git)
+ - [Port Scanning and Root Access (HTB)](https://github.com/TarellKing/-Port-Scanning-and-Root-Access.git)
 
  
  

@@ -10,6 +10,7 @@
  
 - [Python Conditional Statement](https://github.com/TarellKing/python-conditional-statements.git)
  
+ <h2> Ethical Hacking Projects:</h2>
  
  
 <h2>💻 Certifications :</h2>

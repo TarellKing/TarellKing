@@ -10,6 +10,8 @@
  
 - [Python Conditional Statement](https://github.com/TarellKing/python-conditional-statements.git)
  
+- [Java Mortgage Calculator](https://github.com/TarellKing/Java-Mortgage-Calculator.git) 
+ 
  <h2> 🔓 Ethical Hacking Projects:</h2>
 
  - [Port Scanning and Root Access (HTB)](https://github.com/TarellKing/-Port-Scanning-and-Root-Access.git)

@@ -12,6 +12,9 @@
  
 - [Java Mortgage Calculator](https://github.com/TarellKing/Java-Mortgage-Calculator.git) 
  
+ - [Java Conditional Statments (Fizz Buzz)](https://github.com/TarellKing/JavaConditionalStatements.git) 
+
+ 
  <h2> 🔓 Ethical Hacking Projects:</h2>
 
  - [Port Scanning and Root Access (HTB)](https://github.com/TarellKing/-Port-Scanning-and-Root-Access.git)

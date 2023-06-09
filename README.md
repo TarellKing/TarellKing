@@ -19,6 +19,8 @@
 
  - [Port Scanning and Root Access (HTB)](https://github.com/TarellKing/-Port-Scanning-and-Root-Access.git)
 
+ - [Network Vulnerability Scan (HTB 2)](https://github.com/TarellKing/Network-Vulnerability-Scan-HTB-2-.git)
+
  
  
 <h2>💻 Certifications :</h2>

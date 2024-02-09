@@ -1,4 +1,6 @@
-<h1>Hi, I'm Tarell!
+<h1>Hi, I'm Tarell! 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+and+Data+Enthusiast+;Welcome+To+My+Github!)](https://git.io/typing-svg) 
 
 <h2>⚡ Cybersecurity Projects:</h2>
 

@@ -19,11 +19,13 @@
 - [Python Keylogger ](https://github.com/TarellKing/PythonKeylogger.git) 
 
  
- <h2> 🔓 Ethical Hacking Projects:</h2>
+ <h2> 🔓 Ethical Hacking Write Ups:</h2>
 
  - [Port Scanning and Root Access (HTB)](https://github.com/TarellKing/-Port-Scanning-and-Root-Access.git)
 
  - [Network Vulnerability Scan (HTB 2)](https://github.com/TarellKing/Network-Vulnerability-Scan-HTB-2-.git)
+
+ - [Write Up 3 (HTB: Box Name) ](link)
 
  
  

@@ -25,8 +25,6 @@
 
  - [Network Vulnerability Scan (HTB 2)](https://github.com/TarellKing/Network-Vulnerability-Scan-HTB-2-.git)
 
- - [Write Up 3 (HTB: Box Name) ](link)
-
  
  
 <h2>💻 Certifications :</h2>

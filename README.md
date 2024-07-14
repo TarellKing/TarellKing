@@ -4,7 +4,7 @@
 
 <h2>⚡ Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/TarellKing/test-1/blob/main/README.md)
+ - [Setting Up Your Home Lab](https://github.com/TarellKing/Home-Lab/tree/main)
  
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
  

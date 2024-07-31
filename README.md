@@ -4,8 +4,10 @@
 
 <h2>⚡ Cybersecurity Projects:</h2>
 
+ - [Building a SOC + Honeynet in Azure](https://github.com/TarellKing/Building-a-SOC-Honeynet-in-Azure/tree/main)
+
  - [Setting Up Your Home Lab](https://github.com/TarellKing/Home-Lab/tree/main)
- 
+
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
  
  <h2>💾 Coding Projects:</h2>

@@ -9,16 +9,8 @@
  - [Setting Up Your Home Lab](https://github.com/TarellKing/Home-Lab/tree/main)
 
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
- 
- <h2>💾 Coding Projects:</h2>
- 
-- [Python Conditional Statement](https://github.com/TarellKing/python-conditional-statements.git)
- 
-- [Java Mortgage Calculator](https://github.com/TarellKing/Java-Mortgage-Calculator.git) 
 
-- [Java Conditional Statments (Fizz Buzz)](https://github.com/TarellKing/JavaConditionalStatements.git)
-
-- [Python Keylogger ](https://github.com/TarellKing/PythonKeylogger.git) 
+ -  [Python Keylogger ](https://github.com/TarellKing/PythonKeylogger.git) 
 
  
  <h2> 🔓 Ethical Hacking Write Ups:</h2>
@@ -27,9 +19,19 @@
 
  - [Network Vulnerability Scan (HTB 2)](https://github.com/TarellKing/Network-Vulnerability-Scan-HTB-2-.git)
 
+<h2>💻 Networking Projects:</h2>
+
+ <h2>💾 Coding Projects:</h2>
  
+- [Python Conditional Statement](https://github.com/TarellKing/python-conditional-statements.git)
  
-<h2>💻 Certifications :</h2>
+- [Java Mortgage Calculator](https://github.com/TarellKing/Java-Mortgage-Calculator.git) 
+
+- [Java Conditional Statments (Fizz Buzz)](https://github.com/TarellKing/JavaConditionalStatements.git)
+
+
+ 
+<h2 📜 Certifications: </h2>
 
 
 ![comptia-security-ce-certification (2)](https://github.com/user-attachments/assets/761a489b-7231-4b98-8982-e7f570b39cf5)![aws-certified-cloud-practitioner (2)](https://github.com/user-attachments/assets/48786f6b-f28a-4398-982d-2a93f1eb9efe)![certified-in-cybersecurity-cc (1)](https://github.com/user-attachments/assets/3cf3e3e6-31bf-4453-9477-d68792fc0e8e)

@@ -26,8 +26,6 @@
 
  <h2>💾 Coding Projects:</h2>
  
-- [Python Conditional Statement](https://github.com/TarellKing/python-conditional-statements.git)
- 
 - [Java Mortgage Calculator](https://github.com/TarellKing/Java-Mortgage-Calculator.git) 
 
 - [Java Conditional Statments (Fizz Buzz)](https://github.com/TarellKing/JavaConditionalStatements.git)

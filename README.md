@@ -20,7 +20,7 @@
 
 <h2>💻 Networking Projects:</h2>
 
- - [Cisco Packet tracer - x](https://github.com/TarellKing/Cisco-Packet-Tracer/tree/main)
+ - [Cisco Packet Tracer - Configure Secure Passwords and SSH](https://github.com/TarellKing/Cisco-Packet-Tracer/tree/main)
 
 
  <h2>💾 Coding Projects:</h2>

@@ -21,7 +21,7 @@
 <h2>💻 Networking Projects:</h2>
 
  - [Cisco Packet Tracer - Configure Secure Passwords and SSH](https://github.com/TarellKing/Cisco-Packet-Tracer/tree/main)
- - [Cisco Packet Tracer - Subnet an IPv4 Network](https://github.com/TarellKing/Cisco-Packet-Tracer2/edit/main/README.md)
+ - [Cisco Packet Tracer - Subnet an IPv4 Network](https://github.com/TarellKing/Cisco-Packet-Tracer2/tree/main)
 
 
  <h2>💾 Coding Projects:</h2>

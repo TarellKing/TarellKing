@@ -9,9 +9,8 @@
  - [Setting Up Your Home Lab](https://github.com/TarellKing/Home-Lab/tree/main)
 
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
-
- -  [Python Keylogger ](https://github.com/TarellKing/PythonKeylogger.git) 
-
+   
+ - [Python Keylogger](https://github.com/TarellKing/PythonKeylogger.git) 
  
  <h2> 🔓 Ethical Hacking Write Ups:</h2>
 
@@ -20,6 +19,9 @@
  - [Network Vulnerability Scan (HTB 2)](https://github.com/TarellKing/Network-Vulnerability-Scan-HTB-2-.git)
 
 <h2>💻 Networking Projects:</h2>
+
+ - [Cisco Packet tracer - x](https://github.com/TarellKing/Cisco-Packet-Tracer/tree/main)
+
 
  <h2>💾 Coding Projects:</h2>
  

@@ -31,8 +31,15 @@
  
 <h2>💻 Certifications :</h2>
 
-- [ISC2](https://github.com/TarellKing/Certifications/blob/main/README.md)
- 
+
+![comptia-security-ce-certification (2)](https://github.com/user-attachments/assets/761a489b-7231-4b98-8982-e7f570b39cf5)![aws-certified-cloud-practitioner (2)](https://github.com/user-attachments/assets/48786f6b-f28a-4398-982d-2a93f1eb9efe)![certified-in-cybersecurity-cc (1)](https://github.com/user-attachments/assets/3cf3e3e6-31bf-4453-9477-d68792fc0e8e)
+
+
+
+
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 

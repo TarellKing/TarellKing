@@ -10,7 +10,9 @@
 
  - [Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)
    
- - [Python Keylogger](https://github.com/TarellKing/PythonKeylogger.git) 
+ - [Python Keylogger](https://github.com/TarellKing/PythonKeylogger.git)
+
+ - [OpenVas Vulnerability Management - In Progress](https://github.com/TarellKing/OpenVas-Vulnerability-Management)
  
  <h2> 🔓 Ethical Hacking Write Ups:</h2>
 

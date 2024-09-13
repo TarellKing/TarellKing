@@ -69,10 +69,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarellking/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Tarell King | LinkedIn" height="30" width="30" />
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tarell King | LinkedIn" height="30" width="100" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" />
+
   </a>
   <!-- Add more social links if desired -->
 </p>
@@ -84,5 +83,4 @@
 
 <!-- You can integrate your blog posts here using GitHub Actions or third-party services -->
 
--->
 

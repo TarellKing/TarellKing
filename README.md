@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-- 🔭  Currently integrating **Splunk** into my **Azure** environment and preparing for an upcoming **Capture The Flag (CTF)** event with Raymond James!
+- 🔭  Currently developing an AWS-based Security Operations Center using Terraform to leverage the benefits of Infrastructure as Code.
 ## 🚀 Projects
 
 ### ⚡ **Cybersecurity Projects**

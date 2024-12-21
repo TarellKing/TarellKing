@@ -23,7 +23,7 @@
 ## 🚀 Projects
 
 ### ⚡ **Cybersecurity Projects**
-
+- [🌐 Wazuh Deployment on Ubuntu](https://github.com/TarellKing/Wazuh-Configuration/blob/main/README.md) 
 - [🔒 Building a SOC + Honeynet in Azure](https://github.com/TarellKing/Building-a-SOC-Honeynet-in-Azure/tree/main)
 - [🏠 Setting Up Your Home Lab](https://github.com/TarellKing/Home-Lab/tree/main)
 - [🕵️ Nessus Vulnerabilities Scan](https://github.com/TarellKing/Nessus-Vulnerabilities-scan/blob/main/README.md)

@@ -6,8 +6,8 @@ Security Engineer
 ### About Me
 
 - 🌍 Based in New York City
-- 💼 Currently working in Detection Engineering & Insider Threat  
-- 🧠 Focused on cloud threat detection, detection-as-code, and security automation  
+- 💼 Currently working in Sec Ops Engineering 
+- 🧠 Focused on AI, and security automation
 - 🤝 Open to collaborating on security tooling, detections, labs, and research  
 
 📫 **Contact:** [tarellking2020@gmail.com](mailto:tarellking2020@gmail.com)
